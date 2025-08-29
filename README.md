@@ -1,0 +1,1 @@
+![Daily Stock Scraper](https://github.com/Kalzangdorjelama/NEPSE-Datasets/actions/workflows/scraper.yml/badge.svg)
